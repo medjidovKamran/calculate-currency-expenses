@@ -1,0 +1,2 @@
+export const ADD_EXPENSE = 'ADD_EXPENSE';
+export const CLEAR_EXPENSES = 'CLEAR_EXPENSES';
